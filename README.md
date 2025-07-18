@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hello, I'm Navneet Singh Yadav!
 
-<!--
-**Navneet225/Navneet225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/First%20Contribution-%E2%9C%94-green.svg)](https://github.com/firstcontributions/first-contributions)
+[![](https://img.shields.io/github/followers/Navneet225?label=Follow&style=social)](https://github.com/Navneet225)
 
-Here are some ideas to get you started:
+I'm a passionate learner diving into the world of **Web Development** and **Open Source**.  
+Currently exploring full-stack development and actively contributing to beginner-friendly projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+- 🌐 HTML | CSS | JavaScript
+- ⚛️ React (beginner)
+- 🐍 Python (learning...)
+- 📊 Excel | SQL (Data Analyst path)
+- 💻 Git & GitHub
+
+---
+
+### 🛠️ Projects & Contributions
+- ✅ Successfully completed my first open-source contribution via [First Contributions](https://github.com/firstcontributions/first-contributions)
+- 🧩 Working on beginner-friendly GitHub projects
+
+---
+
+### 🚀 Goals for 2025
+- ✅ Contribute to 10+ open-source repos
+- 📚 Improve React & Python skills
+- 🧠 Get a Data Analyst / Dev role
+
+---
+
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/navneet-singh-yadav-439886281/)
+- 📍 India
+- ✉️ om008195@gmail.com
+
+---
+
+> *“Every expert was once a beginner.” – You got this 🚀*
